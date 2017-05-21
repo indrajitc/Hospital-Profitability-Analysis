@@ -1,0 +1,2 @@
+# Hospital-Profitability-Analysis
+Given Orthopedic Equipment Sales and demographic data for a large list of US hospitals, I used SAS to perform Cluster Analysis and Factor Analysis to create clusters for high profit hospitals (on a testing dataset which only includes hospitals with positive sales numbers). Using the clustering algorithm given, I assign clusters to hospitals with low or nonexistent sales numbers to find a subset of hospitals that provide the greatest opportunity for sales potential.  
